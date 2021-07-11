@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  BeMobile
+
+  Created by pblancoh on 11/7/21.
+  
+*/
+
+"GNB_HEADER" = "$$   Goliath National Bank   $$";
+"BEMOBILE_HEADER" = "$$   BEMOBILE   $$";
+"TOTAL_EUROS" = "TOTAL EUROS =";
+"SEARCH_TRANSACTION" = "Introduca una transacción...";
+"CANCEL" = "Cancelar";
+"OCURRED_ERROR" = "Se ha producido un error";
+
